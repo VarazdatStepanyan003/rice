@@ -80,7 +80,7 @@
 		"menu": "on-click",
 		"menu-file": "~/.config/waybar/power_menu.xml",
 		"menu-actions": {
-			"shutdown": "shutdown",
+			"shutdown": "poweroff",
 			"reboot": "reboot",
 			"sleep": "systemctl suspend",
 			"lock": "hyprlock"
